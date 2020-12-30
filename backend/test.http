@@ -1,0 +1,11 @@
+POST http://localhost:4000/app/signup
+Content-Type: application/json
+
+{
+    "fullName":"Rakesh",
+    "userName":"Raki",
+    "email":"adururakesh@gmail.com",
+    "password":"Aduru",
+    "image":"C:\\fakepath\\Screenshot_2019-09-14-14-53-12-1447179520.png"
+    
+}
